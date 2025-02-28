@@ -80,6 +80,7 @@ Pros:
 1. Open to everyone, fostering community collaboration.
 2. Increased visibility.
 3. Great for open-source projects.
+
 Cons:
 1. Code is publicly accessible, posing security risks.
 
@@ -87,7 +88,8 @@ Private Repositories:
 Pros:
 1. Access restricted, protecting sensitive data.
 2. Controlled collaboration.
-Ideal for proprietary code.
+3. Ideal for proprietary code.
+
 Cons:
 1. Limits community contributions.
 2. May have cost involved.
@@ -116,10 +118,10 @@ If the repository has not yet been created on GitHub, set one up through the Git
 After linking the local repository to GitHub, upload the commit to the remote repository. This ensures that the changes are backed up and accessible from other devices or by collaborators.
 
 How Commits Help in Version Control
-Tracks Changes: Each commit represents a checkpoint in the project’s history, making it easy to track progress over time.
-Collaboration: Multiple contributors can work on a project without overwriting each other’s changes.
-Reverting Changes: If an issue arises, previous commits allow for rolling back to a stable version.
-Branching & Merging: Different features or fixes can be developed independently and later merged without disrupting the main project.
+1. Tracks Changes: Each commit represents a checkpoint in the project’s history, making it easy to track progress over time.
+2. Collaboration: Multiple contributors can work on a project without overwriting each other’s changes.
+3. Reverting Changes: If an issue arises, previous commits allow for rolling back to a stable version.
+4. Branching & Merging: Different features or fixes can be developed independently and later merged without disrupting the main project.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
